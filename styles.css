@@ -1,3 +1,34 @@
 body {
-  background: violet;
+  color: #336699;
+  background: #ccccff;
+  font-family: Arial;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+h1 {
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+em {
+  font-weight: bold;
+  font-style: normal;
+}
+
+nav {
+
+}
+
+.logo {
+  width: 100%;
+}
+
+#disclaimer {
+  background-color: #99ccff;
+  padding: 10px;
+  margin: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
