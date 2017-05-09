@@ -34,6 +34,24 @@ em {
     margin: 0;
 }
 
+#contact {
+    list-style-type: none;
+    margin-top: 50px;
+    padding-left: 5px;
+}
+
+#contact li {
+    font-size: 1.2em;
+    display: inline;
+    margin: 5px;
+    border: 2px solid #336699;
+    padding: 5px;
+}
+
+#monster {
+    width: 100%;
+}
+
 .info {
     font-style: italic;
     margin-left: 30px;
@@ -60,7 +78,7 @@ footer {
 
 nav {
     border: 2px solid #336699;
-    background-image: url(drawings/involution.jpg);
+    background-image: url(../drawings/involution.jpg);
     background-size: contain;
     margin: 0 5px 25px;
     font-size: 1.5em;
